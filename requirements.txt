@@ -1,1 +1,5 @@
-
+Libraries 
+1.Pandas for data manipulation
+2.Matplotlib for visualization
+3.Seaborn for visualization
+4.Random for random data generation
